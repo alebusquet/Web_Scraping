@@ -54,3 +54,7 @@
 7.	Al terminar la ejecución se habrá creado una carpeta ‘Files’ donde se encuentra el archivo generado
 
 -------
+
+### `Autor:`
+
+* Alejandro Busquet -> [Linkedin](https://www.linkedin.com/in/alejandro-busquet/ "Linkedin") - algabu00@gmail.com
