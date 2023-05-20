@@ -1,4 +1,9 @@
-#	Selenium
+# Selenium
+
+### Uso de la librería ‘Selenium’ para extraer, desde una página web, los partidos de fútbol del campeonato 'La Liga'
+### Desarrollado en python
+
+#### Los pasos que se realizaron:
 
 1-	Crear el directorio de trabajo --> 2-Selenium
 	
@@ -36,7 +41,9 @@
 
 14-	A partir de acá se realizó lo que está en los archivos .ipynb y .py
 
-Para ejecutarlo en otro equipo:
+-------
+
+#### Para ejecutarlo en otro equipo:
 
 1.	Clonar el repositorio
 
@@ -51,3 +58,9 @@ Para ejecutarlo en otro equipo:
 6.	Ejecutar el archivo ‘WScrap_BS.ipynb’ o ‘WScrap_BS.py’
 
 7.	Al terminar la ejecución se habrá creado una carpeta ‘Files’ donde se encuentra el archivo generado
+
+-------
+
+### Autor:
+
+* Alejandro Busquet -> [Linkedin](https://www.linkedin.com/in/alejandro-busquet/ "Linkedin") - algabu00@gmail.com
