@@ -5,6 +5,10 @@
 
 -------
 
+<img width="1000" alt="image" src=https://i0.wp.com/thedukh.com/wp-content/uploads/2022/10/webscrapingwithpythonandbeautifulsoup.png>
+
+-------
+
 #### Los pasos que se realizaron:
 
 1-	Crear el directorio de trabajo --> 1-Beautiful_Soap
@@ -37,6 +41,10 @@
 
 -------
 
+<img width="1000" alt="image" src=https://www.grid.cl/blog/wp-content/uploads/2019/03/001-efficient-web-scraping.png>
+
+-------
+
 #### Para ejecutarlo en otro equipo:
 
 1.	Clonar el repositorio
@@ -57,4 +65,6 @@
 
 ### Autor:
 
-* Alejandro Busquet -> [Linkedin](https://www.linkedin.com/in/alejandro-busquet/ "Linkedin") - algabu00@gmail.com
+--> Alejandro Busquet
+* Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá")
+* Mail: algabu00@gmail.com
