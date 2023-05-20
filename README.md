@@ -10,8 +10,6 @@
 
 •	Selenium
 
-•	Scrapy
-
 -------
 
 Práctica realizada para afianzar conocimientos sobre web scraping, con sus librerías más importantes.<br>
