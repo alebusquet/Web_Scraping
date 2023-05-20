@@ -1,6 +1,6 @@
 # Selenium
 
-### Uso de la librería ‘Selenium’ para extraer, desde una página web, los partidos de fútbol del campeonato 'La Liga'
+### Uso de la librería ‘Selenium’ para extraer, desde una página web, los partidos de fútbol de 'La Liga'
 ### Desarrollado en python
 
 #### Los pasos que se realizaron:
