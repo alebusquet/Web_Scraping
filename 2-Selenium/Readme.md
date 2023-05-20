@@ -55,7 +55,7 @@
 
 5.	Ejecutar `pip install -r requirements.txt`
 
-6.	Ejecutar el archivo ‘WScrap_BS.ipynb’ o ‘WScrap_BS.py’
+6.	Ejecutar el archivo ‘WScrap_Sel.ipynb’ o ‘WScrap_Sel.py’
 
 7.	Al terminar la ejecución se habrá creado una carpeta ‘Files’ donde se encuentra el archivo generado
 
