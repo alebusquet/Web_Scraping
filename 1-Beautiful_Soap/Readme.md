@@ -1,6 +1,9 @@
 # Beautiful Soap
 
-### Programa desarrollado en python, que utiliza la librería ‘Beautiful Soup’ para extraer, desde una página web, el título y el guión de la película ‘Titanic’.
+### Uso de la librería ‘Beautiful Soup’ para extraer, desde una página web, el título y el guión de la película ‘Titanic’
+### Desarrollado en python
+
+-------
 
 #### Los pasos que se realizaron:
 
