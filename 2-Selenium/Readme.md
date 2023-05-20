@@ -1,0 +1,31 @@
+#	Selenium
+
+1.	Crear el directorio de trabajo  2-Selenium
+2.	Desde la Terminal, entrar a la carpeta y crear el entorno virtual  WebScrap_Sel (`python3 -m venv WebScrap_Sel`)
+3.	Activar el entorno virtual (`source WebScrap_Sel/bin/actívate`)
+4.	Se necesita descargar e instalar Selenium WebDriver. Para esto:
+a.	Crear una carpeta ‘ChromeDriver’ en la raíz del entorno virtual
+b.	Ir a la página https://chromedriver.chromium.org/downloads
+c.	En los ‘Current Releases’, ubicar la versión que se corresponda con la versión propia de Chrome, que es el navegador que se abrirá (ir a 3 puntitos, Help, About Google Chrome, Versión) y dar click
+d.	Seleccionar el SO (mac64.zip), descargar en la nueva carpeta, y descomprimir
+5.	Instalar librería  Selenium (`pip install selenium`)
+6.	Instalar librería  Pandas (`pip install pandas`). Sólo para convertir todo a un df al final
+7.	Instalar librería  Ipykernel (`pip install ipykernel`). Para el kernel de VSC
+8.	Con esto ya esta instalado todo lo previo
+9.	Crear el archivo requirements.txt (`pip freeze > requirements.txt`)
+10.	Crear archivo para el código (`touch WScrap_Sel.ipynb`). Este archivo incluirá una explicación de los pasos que se realizan
+11.	Crear archivo para el código (`touch WScrap_Sel.py`)
+12.	Abrir con el IDE VSC (`code .`)
+13.	Ya en VSC seleccionar la versión de python relacionada con el nombre del entorno
+14.	A partir de acá se realizó lo que está en los archivos .ipynb y .py
+
+Para ejecutarlo en otro equipo:
+
+1.	Clonar el repositorio
+2.	Moverse a la carpeta 2-Selenium
+3.	Crear un entorno virtual
+4.	Activar el entorno virtual
+5.	Ejecutar `pip install -r requirements.txt`
+6.	Ejecutar el archivo ‘WScrap_BS.ipynb’ o ‘WScrap_BS.py’
+7.	Al terminar la ejecución se habrá creado una carpeta ‘Files’ donde se encuentra el archivo generado
+![image](https://github.com/alebusquet/Web_Scraping/assets/110254796/361b627d-8268-4665-8e9a-6655c982b3f2)
