@@ -2,7 +2,13 @@
 
 ### Uso de la librería ‘Selenium’ para extraer, desde una página web, los partidos de fútbol de 'La Liga'
 ### Desarrollado en python
+
 -------
+
+<img width="1000" alt="image" src=https://www.devopsschool.com/blog/wp-content/uploads/2022/03/banner-selenium.png>
+
+-------
+
 #### Los pasos que se realizaron:
 
 1-	Crear el directorio de trabajo --> 2-Selenium
@@ -43,6 +49,9 @@
 
 -------
 
+<img width="1000" alt="image" src=https://kinsta.com/wp-content/uploads/2022/07/Types-of-web-data.png>
+
+-------
 #### Para ejecutarlo en otro equipo:
 
 1.	Clonar el repositorio
@@ -63,4 +72,6 @@
 
 ### Autor:
 
-* Alejandro Busquet -> [Linkedin](https://www.linkedin.com/in/alejandro-busquet/ "Linkedin") - algabu00@gmail.com
+--> Alejandro Busquet
+* Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá")
+* Mail: algabu00@gmail.com
