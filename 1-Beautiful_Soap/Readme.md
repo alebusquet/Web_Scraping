@@ -1,6 +1,15 @@
 # Beautiful Soap
 
-### Uso de la librería ‘Beautiful Soup’ para extraer, desde una página web, el título y el guión de la película ‘Titanic’
+## Este trabajo consiste en dos aplicaciones:
+
+1. En los archivos `WScrap_BS.ipynb` y `WScrap_BS.py` se utiliza la librería para extraer, desde una página web de películas, el título y el guión del film ‘Titanic’
+
+2. En el archivo `mundiales.ipynb` se utiliza la librería para obtener:
+
+	a) información de todos los partidos de fútbol de un Mundial en particular, obteniendo todos los equipos que hicieron de local, de visitante y los resultados
+	
+	b) información de todos los partidos de fútbol de todos los Mundiales, obteniendo todos los equipos que hicieron de local, de visitante y los resultados, guardando todo en un archivo .csv
+	
 ### Desarrollado en python
 
 -------
@@ -21,23 +30,25 @@
 
 5-	Instalar librería --> Requests (`pip install requests`). Manda las solicitudes a la página web
 
-6-	Instalar librería --> Ipykernel (`pip install ipykernel`). Para el kernel en VSC
+6-	Instalar librería --> Pandas (`pip install pandas`). Generar dataframes para su tratamiento y presentación
 
-7-	Como parser se usará el que viene por defecto con python (‘html.parser’). El parser lo necesita BS para extraer datos de html. Hay varios parsers y se podría necesitar otro, en cuyo caso habría que instalarlo
+7-	Instalar librería --> Ipykernel (`pip install ipykernel`). Para el kernel en VSC
 
-8-	Con esto ya están las librerias instaladas
+8-	Como parser se usará el que viene por defecto con python (‘html.parser’). El parser lo necesita BS para extraer datos de html. Hay varios parsers y se podría necesitar otro, en cuyo caso habría que instalarlo
 
-9-	Crear el archivo requirements.txt (`pip freeze > requirements.txt`)
+9-	Con esto concluye el detalle de librerias instaladas
 
-10-	Crear archivo para el código (`touch WScrap_BS.ipynb`). Este archivo incluirá una explicación de los pasos que se realizan
+10-	Crear el archivo requirements.txt (`pip freeze > requirements.txt`)
 
-11-	Crear archivo para el código (`touch WScrap_BS.py`)
+11-	Crear archivos para el código de la 'aplicación 1' (`touch WScrap_BS.ipynb` que incluirá explicación de los pasos que se realizan, y `touch WScrap_BS.py`)
 
-12-	Abrir con el IDE VSC (`code .`)
+11-	Crear archivo para el código de la 'aplicación 2' (`touch mundiales.ipynb`)
 
-13-	Ya en VSC seleccionar la versión de python relacionada con el nombre del entorno
+13-	Abrir con el IDE VSC (`code .`)
 
-14-	A partir de acá se realizó lo que está en los archivos .ipynb y .py
+14-	Ya en VSC seleccionar la versión de python relacionada con el nombre del entorno
+
+15-	A partir de acá se realizó lo que está en los archivos .ipynb y .py
 
 -------
 
@@ -57,9 +68,9 @@
 	
 5.	Ejecutar pip install -r requirements.txt
 	
-6.	Ejecutar el archivo WScrap_BS.ipynb o WScrap_BS.py
+6.	Ejecutar el archivo correspondiente a la aplicación deseada ('WScrap_BS.ipynb' o 'mundiales.ipynb')
 	
-7.	Al terminar la ejecución se habrá creado una carpeta ‘Files’ donde se encuentra el archivo generado
+7.	Al terminar la ejecución se habrá creado una carpeta ‘Files’ donde se encontrarán los archivos generados
 
 -------
 
@@ -67,4 +78,7 @@
 
 --> Alejandro Busquet
 * Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá")
+* Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá"){:target="_blank"}
 * Mail: algabu00@gmail.com
+* Mail: [algabu00@gmail.com](mailto:algabu00@gmail.com){:target="_blank"}
+
