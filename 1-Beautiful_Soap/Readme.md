@@ -78,7 +78,8 @@
 
 --> Alejandro Busquet
 * Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá")
-* Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá"){:target="_blank"}
-* Mail: algabu00@gmail.com
-* Mail: [algabu00@gmail.com](mailto:algabu00@gmail.com){:target="_blank"}
 
+* Mail: algabu00@gmail.com
+
+* Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/){:target="_blank"}
+* Mail: <a href="mailto:algabu00@gmail.com" target="_blank">algabu00@gmail.com</a>
