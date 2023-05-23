@@ -77,7 +77,7 @@
 ### Autor:
 
 --> Alejandro Busquet
+
 * Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá")
 
-* Linkedin: <a href="https://www.linkedin.com/in/alejandro-busquet/" target="_blank">Acá</a>
 * Mail: <a href="mailto:algabu00@gmail.com" target="_blank">algabu00@gmail.com</a>
