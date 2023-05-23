@@ -24,5 +24,7 @@ Ingresar a cada carpeta para obtener información más detallada sobre cada trab
 ### Autor:
 
 --> Alejandro Busquet
+
 * Linkedin: [Acá](https://www.linkedin.com/in/alejandro-busquet/ "Acá")
+
 * Mail: <a href="mailto:algabu00@gmail.com" target="_blank">algabu00@gmail.com</a>
