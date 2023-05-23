@@ -68,7 +68,7 @@
 	
 5.	Ejecutar pip install -r requirements.txt
 	
-6.	Ejecutar el archivo correspondiente a la aplicación deseada ('WScrap_BS.ipynb' o 'mundiales.ipynb')
+6.	Ejecutar el archivo correspondiente a la aplicación deseada (`WScrap_BS.ipynb` o `mundiales.ipynb`)
 	
 7.	Al terminar la ejecución se habrá creado una carpeta ‘Files’ donde se encontrarán los archivos generados
 
