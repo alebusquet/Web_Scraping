@@ -42,7 +42,7 @@
 
 11-	Crear archivos para el código de la 'aplicación 1' (`touch WScrap_BS.ipynb` que incluirá explicación de los pasos que se realizan, y `touch WScrap_BS.py`)
 
-11-	Crear archivo para el código de la 'aplicación 2' (`touch mundiales.ipynb`)
+12-	Crear archivo para el código de la 'aplicación 2' (`touch mundiales.ipynb`)
 
 13-	Abrir con el IDE VSC (`code .`)
 
