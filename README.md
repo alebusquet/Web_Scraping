@@ -21,7 +21,7 @@ Ingresar a cada carpeta para obtener información más detallada sobre cada trab
 
 -------
 
-### Autor:
+### Autor ⤵️
 
 --> Alejandro Busquet
 
